@@ -20,7 +20,7 @@ Implementation
 01: Mash the chickpeas as much as you want.
 02: Chop chili and garlic.
 03: Add spices, lemon chili and garlic to chickpeas.
-04: Add egg. Stir.
+04: Add egg and flour. Stir.
 05: Add salt and pepper, as much as you want.
 06: Roll into small balls.
 07: Fry in pan or roast in oven.

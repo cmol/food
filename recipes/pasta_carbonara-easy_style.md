@@ -16,8 +16,8 @@ Implementation
 03: Cook cream
 04: Add the bacon, with the fat, into the creame with the clove of garlic.
 05: Add cheese!
-06: Poor of the water and add pasta into the sauce.
-07: Stek på middels varme.
+06: Poor off the water and add pasta into the sauce.
+07: Cook on medium heat.
 ```
 
 Testing/Release

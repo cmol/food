@@ -1,8 +1,8 @@
 Recipe Name
 ============
-* [1 - Source code](#Source-code)
-* [2 - Implementation](#Implementation)
-* [3 - Testing & Release](#Testing-&-Release)
+* [1 - Source code](#source-code)
+* [2 - Implementation](#implementation)
+* [3 - Testing & Release](#testing--release)
 
 Source code
 -----------
